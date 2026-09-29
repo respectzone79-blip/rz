@@ -1,0 +1,16 @@
+{
+  "admin": {
+    "label": "الإدارة",
+    "color": "#6A0DAD",
+    "panelChannelId": null,
+    "logChannelId": null,
+    "messageId": null
+  },
+  "oversight": {
+    "label": "الرقابة",
+    "color": "#8A2BE2",
+    "panelChannelId": null,
+    "logChannelId": null,
+    "messageId": null
+  }
+}
